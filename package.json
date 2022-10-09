@@ -1,0 +1,13 @@
+{
+  "name": "pixi-js-basics",
+  "version": "1.0.0",
+  "description": "A project to learn pixi.JS",
+  "scripts": {
+    "dev": "http-server"
+  },
+  "author": "Mr Linxed <hello@mrlinxed.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
